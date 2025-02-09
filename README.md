@@ -8,7 +8,7 @@ I'm a passionate Full-Stack Developer specializing in building dynamic web appli
 - **Location:** Dhaka, Bangladesh
 - **Interests:** Coding, Music, Physics
 - **Currently Learning:** Rust and Go
-- **Website:** [arnobroy.com](https://arnobroy.com)
+- **Website:** [arnobBro.com](https://arnobBro.com)
 
 ## 🛠️ Tech Stack
 
