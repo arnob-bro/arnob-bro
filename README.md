@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Arnob!
 
-I'm a passionate Full-Stack Developer specializing in building dynamic web applications with React and Laravel. I thrive on transforming complex problems into intuitive, user-friendly solutions.
+I'm a passionate Full-Stack Developer specializing in building dynamic web applications and mobile apps. I thrive on transforming complex problems into intuitive, user-friendly solutions.
 
 ## 🚀 About Me
 
@@ -13,7 +13,7 @@ I'm a passionate Full-Stack Developer specializing in building dynamic web appli
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, C, C++, Dart, Java, HTML, CSS
-- **Frameworks:** React, Laravel, ExpressJS
+- **Frameworks:** React, Laravel, ExpressJS, Flutter
 - **Tools:** Git
 - **Databases:** MySQL, MongoDB, Firebase
 
