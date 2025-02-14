@@ -6,16 +6,16 @@ I'm a passionate Full-Stack Developer specializing in building dynamic web appli
 
 - **Pronouns:** He/Him
 - **Location:** Dhaka, Bangladesh
-- **Interests:** Coding, Music, Physics
-- **Currently Learning:** Rust and Go
+- **Interests:** Coding, Music, Physics, Math
+- **Currently Learning:** Laravel, MySQL
 - **Website:** [arnobBro.com](https://arnobBro.com)
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, Python
-- **Frameworks:** React, Laravel
-- **Tools:** Git, Docker, Webpack
-- **Databases:** MySQL, MongoDB
+- **Languages:** JavaScript, C, C++, Dart, Java, HTML, CSS
+- **Frameworks:** React, Laravel, ExpressJS
+- **Tools:** Git
+- **Databases:** MySQL, MongoDB, Firebase
 
 ## 📈 GitHub Stats
 
